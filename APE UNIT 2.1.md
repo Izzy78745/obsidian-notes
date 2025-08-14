@@ -8,4 +8,4 @@
 
 #### One bad thing they did was called Simony. Simony was the selling of church positions to basically people who could afford it. This was mostly done because people with these positions would usally not be taxed (always bout them damn taxes smh).
 
-#### In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck a)
+#### In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck else does it) you should go there to cleanse of your sins, and that will take some time to happen. And then in the 16th century Pope Leo X decided to monitise that shit
