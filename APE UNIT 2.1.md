@@ -13,4 +13,4 @@
 
 - ## THE GOAT MARTIN LUTHER
 	- ##### Martin Luther was a monk and honestly had anxiety of confessing his sins (me to bro) but then he made a discovery. He was studying Romans chapter 1 in the new testament. He figured out that it was not paying to get rid of your sins but instead god forgave based off the finished work of Christ (Heimler said that idk what that means). The more he read into it he saw how the Papacy was very diverged from the bible actually.
-	- 
+	- ##### Then he made up Sola Scriptura meaning scripture alone and that the final authority was the bible and not the papacy. Then he made the 95 thesis and then nailed it on the door. Then the printing press actually spread it 
