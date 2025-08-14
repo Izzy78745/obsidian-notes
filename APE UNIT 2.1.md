@@ -8,8 +8,8 @@
 
 - ## **Now onto the bad things they did**
 	- ##### One bad thing they did was called ==Simony==. Simony was the selling of church positions to basically people who could afford it. This was mostly done because people with these positions would usually not be taxed (always bout them damn taxes smh).
-	- In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck else does it) you should go there to cleanse of your sins, and that will take some time to happen. And then in the 16th cent==Pope Leo X decided to monetize that shit to fund the construction of St. Peter's Basilica, basically selling get out of Purgatory free cards==.
+	- ##### In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck else does it) you should go there to cleanse of your sins, and that will take some time to happen. And then in the 16th cent==Pope Leo X decided to monetize that shit to fund the construction of St. Peter's Basilica, basically selling get out of Purgatory free cards==.
 
 
 - ## THE GOAT MARTIN LUTHER
-	- ## cheese
+	- ##### Martin Luther was a monk and honestly had anxiety of confessing his sins (me to bro) but then he made a discovery. He was studying Romans chapter 1 in the new testament 
