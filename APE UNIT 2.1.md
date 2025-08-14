@@ -15,9 +15,7 @@
 	- ##### Martin Luther was a monk and honestly had anxiety of confessing his sins (me to bro) but then he made a discovery. He was studying Romans chapter 1 in the new testament. He figured out that it was not paying to get rid of your sins but instead god forgave based off the finished work of Christ (Heimler said that idk what that means). The more he read into it he saw how the Papacy was very diverged from the bible actually.
 	- ##### Then he made up Sola Scriptura meaning scripture alone and that the final authority was the bible and not the papacy. Then he made the 95 thesis and then nailed it on the door. Then the printing press actually spread it across the HRE and a lot of people agreed with him. Then the Church officials denounced him as a heretic and brought him before "The Diet of Worms" saying to denounce his claims and basically just said no.
 
-<<<<<<< HEAD
 #### In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck else does it) you should go there to cleanse of your sins, and that will take some time to happen. And then in the 16th century==Pope Leo X decided to monetize that shit to fund the construction of St.Peter's Basilica, basically selling get out of Purgatory free cards==
-=======
 - ## John Calvin
 	- ##### One of the things this guy did was systematize the Protestant doctrine, in which he named The Institutes of the Christian Religion. 
 		- - His first doctrine was Predestination- It stated that God had decided from before the world was even created, who would be saved or go to hell. And therefore Salvation and Damnation was not of human choice but of God's choice
@@ -29,5 +27,3 @@
 	- ##### They basically believed in the same principles as Luther and Calvin but separated from them on the terms of baptism. They basically believed that only adults should be baptized, as only they can confess their belief in christ while an infant.. well they can't (duh).
 	  
 	  
-# ALRIGHT NOW GO TO [[APE Unit 2.2]] BOYY
->>>>>>> origin/main
