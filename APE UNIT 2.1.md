@@ -23,4 +23,7 @@
 		- He made it so that the bible was basically law and that financial wealth was the proper reward for hard work and as well as they didn't allow money to become their got, then their wealth would be a sign of God's favor. And if you don't agree with him you get burnt at the stake like he did with Michael Servetus who disagreed with baptism
 
 - ## Anabaptists
-	- ##### They basically believed in the same principles as Luther and Calvin but separated from them on the terms of baptism. They basically believed that only adults should be baptized, as only they can confess their belief in christ while an infant.. well 
+	- ##### They basically believed in the same principles as Luther and Calvin but separated from them on the terms of baptism. They basically believed that only adults should be baptized, as only they can confess their belief in christ while an infant.. well they can't (duh).
+	  
+	  
+# ALRIGHT NOW GO TO [[APE Unit 2.2]] BOYY
