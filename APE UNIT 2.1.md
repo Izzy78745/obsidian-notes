@@ -18,3 +18,4 @@
 - ## John Calvin
 	- ##### One of the things this guy did was systematize the Protestant doctrine, in which he named The Institutes of the Christian Religion. 
 		- His first doctrine was Predestination- It stated that God had decided from before the world was even created, who would be saved or go to hell. And therefore Salvation and Damnation was not of human choice but of God's choice
+		- The second was called Elect- The elect were those who God chose to save and had no c
