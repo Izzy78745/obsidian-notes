@@ -4,6 +4,8 @@
 
 #### And then in 1377 the Papacy went back to Rome under the leadership of a good Pope who didn't want any of that to happen again. But that led to a shit ton of disputes and then the Avignon Papacy just said "HEY FUCK YOU" and elected their own pope because they're just that guy fr. So now we got two different Popes who say they're the pope and the average persons like "dude wtf" and thinks that the papacy massively flawed, thinking that the papacy cared more about themselves then guiding the faith.
 
-## **
+## **Now onto the bad things they did**
 
 #### One bad thing they did was called Simony. Simony was the selling of church positions to basically people who could afford it. This was mostly done because people with these positions would usally not be taxed (always bout them damn taxes smh).
+
+#### In the 12th century the church decided that Purgatory existed because they felt that if you didn't confess all your sins to the cardinals (or whoever the fuck a)
