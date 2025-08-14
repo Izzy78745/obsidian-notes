@@ -17,4 +17,4 @@
 
 - ## John Calvin
 	- ##### One of the things this guy did was systematize the Protestant doctrine, in which he named The Institutes of the Christian Religion. 
-		- 
+		- His first doctrine was Predestination- It stated that God had decided from before the world was even created, who would be
