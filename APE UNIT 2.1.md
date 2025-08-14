@@ -20,4 +20,7 @@
 		- - His first doctrine was Predestination- It stated that God had decided from before the world was even created, who would be saved or go to hell. And therefore Salvation and Damnation was not of human choice but of God's choice
 		- The second was called Elect- The elect were those who God chose to save and had no choice in the matter, and could never lose their salvation.
 	- ## He basically ran a Theology in his town also
-		- He made it so that the bible was basically law and that financial wealth was the proper reward for hard work and as well as they didn't allow money to become their got, then their wealth would be a sign of God's favor. And if you don't agree with him youget burnt at the stake
+		- He made it so that the bible was basically law and that financial wealth was the proper reward for hard work and as well as they didn't allow money to become their got, then their wealth would be a sign of God's favor. And if you don't agree with him you get burnt at the stake like he did with Michael Servetus who disagreed with baptism
+
+- ## Anabaptists
+	- 
