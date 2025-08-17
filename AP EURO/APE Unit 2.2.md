@@ -6,3 +6,6 @@
 
 ##### This also helped with challenging the papacy in general. Like in England where the church of England was made cause henry was like "man fuck the pope". But it really wasn't to different from the Catholic Church so Elizabeth I got a bunch of "Puritans" to basically finish the job and remove Catholicism Then also blah blah blah Civil war and Puritans came out on top.
 
+  ##### And Anabaptists believed in a break from the church and state and were also anti war.
+
+Yeah this was 
