@@ -4,4 +4,4 @@
 
 ##### By 1523 there was a French translation of the new testament, an English version by 1526 also.
 
-This helped 
+##### This also helped with challenging the 
