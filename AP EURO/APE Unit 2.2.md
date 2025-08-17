@@ -4,4 +4,4 @@
 
 ##### By 1523 there was a French translation of the new testament, an English version by 1526 also.
 
-##### This also helped with challenging the 
+##### This also helped with challenging the papacy in general. Like in England where the church of England was made cause henry was like "man fuck the pope". But it really wasn't to different from the Catholic Church so Elizabeth 
