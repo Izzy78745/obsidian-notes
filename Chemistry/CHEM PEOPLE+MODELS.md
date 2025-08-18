@@ -39,8 +39,12 @@
 
 -----
 
-- ## Anabaptists
-	- ##### They basically believed in the same principles as Luther and Calvin but separated from them on the terms of baptism. They basically believed that only adults should be baptized, as only they can confess their belief in christ while an infant.. well they can't (duh).
+- ## Isotopes
+	- ##### Isotopes are two atoms of the same element with different masses
+	- ##### They have the same number of protons but different numbers of neutrons
+	- ##### Chemical behavior is the same because the number of protons (and thus the element) is the same
 
-
-# NOW GO TO [[APE Unit 2.2]]
+- ## Isotopes
+	- ##### Isotopes are two atoms of the same element with different masses
+	- ##### They have the same number of protons but different numbers of neutrons
+	- ##### Chemical behavior is the same because the number of protons (and thus the element) is the same
