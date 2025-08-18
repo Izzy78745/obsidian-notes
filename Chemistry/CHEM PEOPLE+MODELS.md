@@ -31,7 +31,7 @@
 ![File:Streuversuch Rutherford.svg - Wikimedia Commons](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfu4XpC4B4wfAZOZlfaLxuojWoiJlFKyRAPaGxHA6NeSQ9Jlz135N_h5VBEfYJfkwPRDDq6tyHG88GG_WmKrstoK5hLb1SKLaDEKsWnmzCZTLxcDnbpoKO9273OtP30H8svJ_gp=s2048?key=yyK5kIo8O8qZj3H0ct0Sjg)
 ----
 
-- ## ### Bohr’s Planetary Model
+- ## Bohr’s Planetary Model
 	- ##### 1922: Nobel Prize awarded for the model
 	- ##### Electrons orbiting the nucleus already understood at his time
 	- ##### First to get credit for proposing that the energy levels are quantized
