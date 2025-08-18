@@ -15,4 +15,5 @@
 	- ##### Energy of an electron is quantized: can only have specific values
 	- ##### Energy proportional to energy level
 		- ![bohr emission | center](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd89tgGAV6QXiXrhbOEDgA7PoFNA5yVfVR1CKnj7sMY2WTOZ4kjheJz0pvyxlBXIGpWesCfd_THxQ2dtphmrtQmedfI1K_z-b59hXyHtf2Oa2MmeNGUx8rACw-szMaWvlmRmVJ-fdTsSmFS1GmsTvXLi3K0I7Ht=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
+	- ##### Electron will drop from excited state to ground state and will emit energy as a photon.
 ----
