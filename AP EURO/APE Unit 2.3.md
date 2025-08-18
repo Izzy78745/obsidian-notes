@@ -5,4 +5,4 @@
 ##### Then the Bartholomew Day Massacre happened where Henry of Navarre was going to get married in Paris and a lot of Huguenots came and Charles IX under Catherine's influence killed them all
 
 # War of three Henry's
-###### Henry III was on the throne already
+###### Henry III was on the throne already, But wasn't catholic enough for Henry of Guise who led the Catholic League, and so with the Spanish, Guise Henry took the throne
