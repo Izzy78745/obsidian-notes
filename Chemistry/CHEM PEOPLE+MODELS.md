@@ -32,7 +32,8 @@
 ----
 
 - ## ### Bohr’s Planetary Model
-	- ##### One of the things this guy did was systematize the Protestant doctrine, in which he named The Institutes of the Christian Religion. 
+	- ##### 1922: Nobel Prize awarded for the model
+	- Electrons orbiting the nucleus already understood at his time
 
 -----
 
