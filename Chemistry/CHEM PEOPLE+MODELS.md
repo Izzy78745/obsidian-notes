@@ -16,8 +16,9 @@
 - ## **### Thomson’s Plum Pudding**
 	- ##### 1890s
 	- ##### Cathode Ray Tube
-	- ##### - Confirmed the existence of the electron
-	    
+	- #####  Confirmed the existence of the electron
+	- ##### Throught electrons embedded in a positively charged sphere (wrong)
+
 
 ----
 
