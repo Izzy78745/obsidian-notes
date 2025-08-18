@@ -17,3 +17,6 @@
 		- ![bohr emission | center](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd89tgGAV6QXiXrhbOEDgA7PoFNA5yVfVR1CKnj7sMY2WTOZ4kjheJz0pvyxlBXIGpWesCfd_THxQ2dtphmrtQmedfI1K_z-b59hXyHtf2Oa2MmeNGUx8rACw-szMaWvlmRmVJ-fdTsSmFS1GmsTvXLi3K0I7Ht=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
 	- ##### Electron will drop from excited state to ground state and will emit energy as a photon.
 ----
+- ## **Heisenberg Uncertainty Principle**
+	- ##### The exact location of an electron cannot be determined
+	- ##### Energy proportional to energy level
