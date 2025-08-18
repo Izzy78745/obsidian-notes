@@ -33,7 +33,9 @@
 
 - ## ### Bohr’s Planetary Model
 	- ##### 1922: Nobel Prize awarded for the model
-	- Electrons orbiting the nucleus already understood at his time
+	- ##### Electrons orbiting the nucleus already understood at his time
+	- ##### First to get credit for proposing that the energy levels are quantized
+	- ##### Model fails to explain accurately for elements larger than Helium
 
 -----
 
