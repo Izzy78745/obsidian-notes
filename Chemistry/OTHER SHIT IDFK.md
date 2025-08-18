@@ -5,3 +5,7 @@ Excited state: an electron that has absorbed energy and moved to a higher energy
 
 ![[Pasted image 20250818105529.png]]
 
+
+
+Electron configuration
+rule 1: each orbital c
