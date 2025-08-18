@@ -22,3 +22,5 @@
 	- ##### You can know either the location or the velocity but not both
 	- ##### Electrons exist in electron clouds and not on specific rings or orbits
 -----
+
+# [[E]]
