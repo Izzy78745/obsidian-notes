@@ -12,7 +12,7 @@
 - ## TRENDS!**
 	- ###  Ionization energy
 		- ##### The amount of energy needed to remove an electron from an atom
-			![[Pasted image 20250818190822.png | center]]
+			![[Ionization_energy_periodic_table.svg]]
 	- ### **Electronegativity and electron affinity**
 		- ##### Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond
 			Electronegativity generally increases as you move up groups
