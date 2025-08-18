@@ -18,7 +18,7 @@
 	- ##### Cathode Ray Tube
 	- #####  Confirmed the existence of the electron
 	- ##### Throught electrons embedded in a positively charged sphere (wrong)
-
+![[Pasted image 20250818183744.png | center]]
 
 ----
 
