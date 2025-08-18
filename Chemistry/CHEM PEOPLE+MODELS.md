@@ -8,7 +8,9 @@
 	- No concept of subatomic particles
 
 ----
-		![[Pasted image 20250818183025.png]]
+
+![[Pasted image 20250818183149.png]]
+
 ----
 
 - ## **Now onto the bad things they did**
