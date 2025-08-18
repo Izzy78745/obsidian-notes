@@ -27,16 +27,12 @@
 	- ##### Gold foil experiment discovered the nucleus
 	- ##### Alpha particles (positively charged) were fired at gold foil; some deflected or bounced back
 	- ##### Disproved the plum pudding model and established that the nucleus is dense and contains most of the atom’s mass
-	- 
-
+	- ##### Omitted existence of neutrons
+![File:Streuversuch Rutherford.svg - Wikimedia Commons](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfu4XpC4B4wfAZOZlfaLxuojWoiJlFKyRAPaGxHA6NeSQ9Jlz135N_h5VBEfYJfkwPRDDq6tyHG88GG_WmKrstoK5hLb1SKLaDEKsWnmzCZTLxcDnbpoKO9273OtP30H8svJ_gp=s2048?key=yyK5kIo8O8qZj3H0ct0Sjg)
 ----
 
-- ## John Calvin
+- ## ### Bohr’s Planetary Model
 	- ##### One of the things this guy did was systematize the Protestant doctrine, in which he named The Institutes of the Christian Religion. 
-		- - His first doctrine was Predestination- It stated that God had decided from before the world was even created, who would be saved or go to hell. And therefore Salvation and Damnation was not of human choice but of God's choice
-		- The second was called Elect- The elect were those who God chose to save and had no choice in the matter, and could never lose their salvation.
-	- ## He basically ran a Theology in his town also
-		- He made it so that the bible was basically law and that financial wealth was the proper reward for hard work and as well as they didn't allow money to become their got, then their wealth would be a sign of God's favor. And if you don't agree with him you get burnt at the stake like he did with Michael Servetus who disagreed with baptism
 
 -----
 
