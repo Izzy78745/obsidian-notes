@@ -9,7 +9,7 @@
 
 ----
 
-![[Pasted image 20250818183149.png | center]]
+![[Pasted image 20250818185454.png]]
 
 ----
 
