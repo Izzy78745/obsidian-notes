@@ -17,7 +17,7 @@
 		- ##### Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond
 			Electronegativity generally increases as you move up groups
 			Electronegativity increases as you move across a period
-				![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUds0KRt4CTrbQWMo0H4I0deP0uZ-zUYm88UrFeEN1z0tvvW1Os6_ZIqShyvzwwU2khly_-Mn4n2NWOkhNIa0Us6alg14JbTgiEvvnDQ1AQ-llOW0p98qf0ZuvM79VhStkzP0i5LsEnm98zW5iPliosxtiznEckS=s2048?key=bcPRDNbj1aAAM524Xfpexg)
+				![[electronegativity_trends.png]]
 	- ### **Atomic radius**
 		- c'mon man u know this, its literally the radius
 
