@@ -19,4 +19,6 @@
 ----
 - ## **Heisenberg Uncertainty Principle**
 	- ##### The exact location of an electron cannot be determined
-	- ##### Energy proportional to energy level
+	- ##### You can know either the location or the velocity but not both
+	- ##### Electrons exist in electron clouds and not on specific rings or orbits
+-----
