@@ -1,2 +1,3 @@
-# Protestentism in France
-	
+# Protestantism in France
+
+###### Like half of Frances nobility were now Huguenots, which are just Calvinists. Then Charles IX came into power but only at 9 years old Catherine
