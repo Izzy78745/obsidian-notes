@@ -9,7 +9,7 @@
 
 ----
 
-![[Cation Anion chart.png]]
+![[Pasted image 20250818183149.png | center]]
 
 ----
 
