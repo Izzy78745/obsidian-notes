@@ -1,7 +1,8 @@
 - ## **Ground State vs. Excited State**
-	- ##### ground state
-	- Atoms are small and indivisible; enter into compounds in regular ratios
-	- All atoms of the same element are identical
-	- No concept of subatomic particles
+	- ##### Ground state
+		- ##### all electrons in lowest possible energy levels
+	- ##### Excited state
+		- ##### An electron that has absorbed energy and moved to a higher energy level
+			- ##### This is a temporary state
 
 ----
