@@ -6,3 +6,7 @@
 			- ##### This is a temporary state
 
 ----
+- ## **Bohr: Energy Levels**
+	- ##### An atom has energy levels where electrons can move
+	- ##### - Planetary Model
+	- ![Image result for bohr's model | center](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeNsd8JyN2nh390TE9LW5oLs28p8KawHTdFBvE_RaDi2NX77m2HpI2EsmXOledrS2MWgTtfHnLLHoioA84Luc9tky4SQH_jLeFt1r6Z-PJh4EZUSf9g8gbccSXL6bm4RQrh_G1RZsNkvQM0igw0DR85QKF9yig=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
