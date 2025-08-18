@@ -26,6 +26,7 @@
 	- ##### Early 1900s
 	- ##### Gold foil experiment discovered the nucleus
 	- ##### Alpha particles (positively charged) were fired at gold foil; some deflected or bounced back
+	- ##### Disproved the plum pudding model and established that the nucleus is dense and contains most of the atom’s mass
 	- 
 
 ----
