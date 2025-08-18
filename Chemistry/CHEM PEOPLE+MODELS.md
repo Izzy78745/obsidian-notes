@@ -9,7 +9,7 @@
 
 ----
 
-![[Pasted image 20250818185454.png]]
+![[Pasted image 20250818183149.png | center]]
 
 ----
 
@@ -47,4 +47,4 @@
 - ## Ions
 	- An ion is an atom that has a non-zero charge
 
-# NOW GO LOOK AT THE [[PERIODIC TRENDS]] FAT BOY
+# NOW GO LOOK AT THE  FAT BOY
