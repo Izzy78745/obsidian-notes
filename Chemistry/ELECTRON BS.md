@@ -1,7 +1,7 @@
+- ## **Niels Bohr**
+	-  Early 1800s
+	- Atoms are small and indivisible; enter into compounds in regular ratios
+	- All atoms of the same element are identical
+	- No concept of subatomic particles
 
-Ground state vs Excited state
-Ground state: all electrons in lowest possible energy levels
-Excited state: an electron that has absorbed energy and moved to a higher energy level- temporary state
-
-![[Pasted image 20250818105529.png]]
-
+----
