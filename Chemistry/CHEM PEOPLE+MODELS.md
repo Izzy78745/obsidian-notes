@@ -44,7 +44,7 @@
 	- ##### They have the same number of protons but different numbers of neutrons
 	- ##### Chemical behavior is the same because the number of protons (and thus the element) is the same
 
-- ## Isotopes
-	- ##### Isotopes are two atoms of the same element with different masses
-	- ##### They have the same number of protons but different numbers of neutrons
-	- ##### Chemical behavior is the same because the number of protons (and thus the element) is the same
+- ## Ions
+	- An ion is an atom that has a non-zero charge
+
+# NOW GO LOOK AT THE [[[PERIODIC TRENDS]]] FAT BOY
