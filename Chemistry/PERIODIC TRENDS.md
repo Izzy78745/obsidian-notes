@@ -14,7 +14,8 @@
 		- ##### The amount of energy needed to remove an electron from an atom
 			![[Pasted image 20250818190822.png | center]]
 	- ### **Electronegativity and electron affinity**
-		- 
+		- ##### Electronegativity is a measure of an atom's ability to attract electrons in a chemical bond
+			Electronegativity generally decreases as you move down groups
 	- ### **Atomic radius**
 
 
