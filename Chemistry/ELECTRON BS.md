@@ -23,4 +23,4 @@
 	- ##### Electrons exist in electron clouds and not on specific rings or orbits
 -----
 
-# [[E]]
+# [[Energy Levels + Configuration]]

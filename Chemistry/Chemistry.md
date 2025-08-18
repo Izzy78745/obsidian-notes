@@ -3,3 +3,5 @@
 [[PERIODIC TRENDS]]
 
 [[ELECTRON BS]]
+
+[[Energy Levels + Configuration]]
