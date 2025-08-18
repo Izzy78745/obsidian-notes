@@ -24,7 +24,9 @@
 
 - ## Rutherford’s Model
 	- ##### Early 1900s
-	- ##### Then he made up Sola Scriptura meaning scripture alone and that the final authority was the bible and not the papacy. Then he made the 95 thesis and then nailed it on the door. Then the printing press actually spread it across the HRE and a lot of people agreed with him. Then the Church officials denounced him as a heretic and brought him before "The Diet of Worms" saying to denounce his claims and basically just said no.
+	- ##### Gold foil experiment discovered the nucleus
+	- ##### Alpha particles (positively charged) were fired at gold foil; some deflected or bounced back
+	- 
 
 ----
 
