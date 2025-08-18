@@ -8,4 +8,5 @@ Excited state: an electron that has absorbed energy and moved to a higher energy
 
 
 Electron configuration
-rule 1: each orbital c
+rule 1: each orbital can hold a maximum of 2 electrons
+Rule 2: fill orbitals that have the lowest energy first- aufbau principle
