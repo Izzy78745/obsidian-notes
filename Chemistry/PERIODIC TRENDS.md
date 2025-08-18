@@ -1,4 +1,4 @@
-#                    THE PROTESTANT REFORMATION.  
+#                                    TRENDS.  
 
 
 - ## **Valence Electrons!**
@@ -9,7 +9,7 @@
 
 ----
 
-- ## TRENDS!**
+- ## **TRENDS!**
 	- ###  Ionization energy
 		- ##### The amount of energy needed to remove an electron from an atom
 			![[Ionization_energy_periodic_table.svg]]
