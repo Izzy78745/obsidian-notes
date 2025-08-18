@@ -10,11 +10,12 @@
 ----
 
 - ## TRENDS!**
-	- #####  Ionization energy
+	- ###  Ionization energy
 		- ##### The amount of energy needed to remove an electron from an atom
-		![[Pasted image 20250818190822.png]]
-	- ##### Electronegativity and electron affinity
-	- ##### Atomic radius
+			![[Pasted image 20250818190822.png | center]]
+	- ### **Electronegativity and electron affinity**
+		- 
+	- ### **Atomic radius**
 
 
 # NOW GO TO [[APE Unit 2.2]]
