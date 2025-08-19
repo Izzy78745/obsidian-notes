@@ -5,9 +5,15 @@
 	- ##### No concept of subatomic particles
 
 ----
-- ## **Dalton’s Atomic Model!**
+- ## **JJ Thomson’s Plum Pudding**
 	- #####  1890s
 	- ##### Cathode Ray Tube
 	- ##### Confirmed the existence of the electron
 	- ##### Thought electrons were embedded in a positively-charged sphere (WRONG)
-	![[Plum Model.png]]
+	![[Plum Model.png | center]]
+----
+- ## **Rutherford’s Model**
+	- #####  Early 1800s
+	- ##### Atoms are small and indivisible; enter into compounds in regular ratios
+	- ##### All atoms of the same element are identical
+	- ##### No concept of subatomic particles
