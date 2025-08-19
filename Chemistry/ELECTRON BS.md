@@ -1,0 +1,25 @@
+- ## **Ground State vs. Excited State**
+	- ##### Ground state
+		- ##### all electrons in lowest possible energy levels
+	- ##### Excited state
+		- ##### An electron that has absorbed energy and moved to a higher energy level
+			- ##### This is a temporary state
+----
+- ## **Bohr: Energy Levels**
+	- ##### An atom has energy levels where electrons can move
+	- ##### - Planetary Model
+	- ![Image result for bohr's model | center](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeNsd8JyN2nh390TE9LW5oLs28p8KawHTdFBvE_RaDi2NX77m2HpI2EsmXOledrS2MWgTtfHnLLHoioA84Luc9tky4SQH_jLeFt1r6Z-PJh4EZUSf9g8gbccSXL6bm4RQrh_G1RZsNkvQM0igw0DR85QKF9yig=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
+----
+- ## **Explanation of Line Spectra & Equation**
+	- ##### Energy of an electron is quantized: can only have specific values
+	- ##### Energy proportional to energy level
+		- ![bohr emission | center](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUd89tgGAV6QXiXrhbOEDgA7PoFNA5yVfVR1CKnj7sMY2WTOZ4kjheJz0pvyxlBXIGpWesCfd_THxQ2dtphmrtQmedfI1K_z-b59hXyHtf2Oa2MmeNGUx8rACw-szMaWvlmRmVJ-fdTsSmFS1GmsTvXLi3K0I7Ht=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
+	- ##### Electron will drop from excited state to ground state and will emit energy as a photon.
+----
+- ## **Heisenberg Uncertainty Principle**
+	- ##### The exact location of an electron cannot be determined
+	- ##### You can know either the location or the velocity but not both
+	- ##### Electrons exist in electron clouds and not on specific rings or orbits
+-----
+
+# [[Energy Levels + Configuration]]
