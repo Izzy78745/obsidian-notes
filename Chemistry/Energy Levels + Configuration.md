@@ -39,5 +39,6 @@
 
 - # **Noble Gas Configuration**
 	- ##### Argon
-	- ##### Potasium
-		- 1s^2 2s^2
+		- 1s^2 2s^2 2p^6 3s^2
+	- ##### Potassium
+		- 1s^2 2s^2 2p^6 3s^2 3p^6 4s
