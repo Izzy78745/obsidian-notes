@@ -31,3 +31,6 @@
 
 - ## **Ions**
 	- ##### An ion is an atom that has a non-zero charge (positive or negative)
+
+
+![[Cation Anion chart.png |center]]
