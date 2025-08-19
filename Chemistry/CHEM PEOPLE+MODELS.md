@@ -13,7 +13,9 @@
 	![[Plum Model.png | center]]
 ----
 - ## **Rutherford’s Model**
-	- #####  Early 1800s
-	- ##### Atoms are small and indivisible; enter into compounds in regular ratios
-	- ##### All atoms of the same element are identical
-	- ##### No concept of subatomic particles
+	- #####  Early 1900s
+	- ##### Discovered the nucleus with the gold foil experiment
+	- ##### Alpha particles (positive charge) and gold foil; noticed that they sometimes bounced back
+	- ##### Disproved plum pudding and realized nucleus existed/is dense
+	- ##### Omitted existence of neutrons
+----

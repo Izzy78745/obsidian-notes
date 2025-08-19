@@ -4,9 +4,6 @@
 	- ##### Excited state
 		- ##### An electron that has absorbed energy and moved to a higher energy level
 			- ##### This is a temporary state
-
-
-![[Cation Anion chart.png |center]]
 ----
 - ## **Bohr: Energy Levels**
 	- ##### An atom has energy levels where electrons can move
