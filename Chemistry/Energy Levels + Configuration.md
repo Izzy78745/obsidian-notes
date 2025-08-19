@@ -51,4 +51,4 @@
 
 - # **Abriviated**
 	- Rubidium
-		- 1s^2 2s^2 2p^6 3s^2 3p^64s^2 3d^10
+		- **[KR]** $5s^1$
