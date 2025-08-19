@@ -14,6 +14,8 @@
 	![[3799808.png|center]]
 	###### s < p < d < f
 
+-----
+
 - ## **Orbitals**
 	- ##### Within each sublevel there are a certain number of orbitals.
 		 - s sublevel—1 orbital
@@ -21,6 +23,8 @@
 		 - d sublevel—5 orbitals
 		 - f sublevel—7 orbitals
 	- Orbitals within each sublevel have similar shapes, but are oriented differently in space
+
+----
 
 | Energy Level, n | Sublevels  | Orbital Names                         | Orbital Names |
 | --------------- | ---------- | ------------------------------------- | ------------- |
@@ -30,6 +34,7 @@
 | 4               | s, p, d, f | 4s, 4p (three), 4d (five), 4f (seven) | 16            |
 ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdRh2XcJES7lw2MsfK2qQFv10wk45NaLHLpth5sepc1trfVYso0xvk-Jy3zBL7UG0lp9WdKCg04MFeR9LLjqXOuTP_zDjef2M2Qau2grFIqdZLs8zWBksoYT2M0bHogOzulTd3Wxp8s_SCu3izxZPZHW7FkIT8=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
 
+-----
 - ## **Electron Configuration**
 	- ##### describes the distribution of electrons among the various orbitals in the atom; like an address for each electron’s most probable location
 		- ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUchtOdhZT085KlM8TMuuNzv0Viye58uFhCrosQgZ-LgVRnS3zBDe0QMfh4KJgqeI0oLIFeJ6wRpkbtuBLeSBxziQTTwrxB5Qh0aPqiz00G-CD4u2iXLTv34k2lb1l5njoEN1YcFxo5N-pIpyI9qiliwIruetdW3=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
