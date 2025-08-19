@@ -33,5 +33,4 @@
 - ## **Electron Configuration**
 	- ##### describes the distribution of electrons among the various orbitals in the atom; like an address for each electron’s most probable location
 		- ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUchtOdhZT085KlM8TMuuNzv0Viye58uFhCrosQgZ-LgVRnS3zBDe0QMfh4KJgqeI0oLIFeJ6wRpkbtuBLeSBxziQTTwrxB5Qh0aPqiz00G-CD4u2iXLTv34k2lb1l5njoEN1YcFxo5N-pIpyI9qiliwIruetdW3=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
-	- ##### Sodium:  Atomic number = 11,  1s^2
-	- s22p63s1
+	- ##### Sodium:  Atomic number = 11,  ![[Pasted image 20250818203343.png]]
