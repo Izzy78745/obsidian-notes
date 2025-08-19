@@ -23,9 +23,9 @@
 	- Orbitals within each sublevel have similar shapes, but are oriented differently in space
 
 
-| Energy Level, n | Sublevels | Orbital Names | Orbital Names |
-| --------------- | --------- | ------------- | ------------- |
-| 1               | s         |               |               |
-|                 |           |               |               |
-|                 |           |               |               |
-|                 |           |               |               |
+| Energy Level, n | Sublevels  | Orbital Names                         | Orbital Names |
+| --------------- | ---------- | ------------------------------------- | ------------- |
+| 1               | s          | 1s                                    | 1             |
+| 2               | s, p       | 2s, 2p (three of these)               | 4             |
+| 3               | s, p, d    | 3s, 3p (three), 3d (five)             | 9             |
+| 4               | s, p, d, f | 4s, 4p (three), 4d (five), 4f (seven) | 16            |
