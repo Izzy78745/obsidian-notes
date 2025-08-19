@@ -20,6 +20,12 @@
 		 - p sublevel—3 orbitals
 		 - d sublevel—5 orbitals
 		 - f sublevel—7 orbitals
-    
+	- Orbitals within each sublevel have similar shapes, but are oriented differently in space
 
-- Orbitals within each sublevel have similar shapes, but are oriented differently in space
+
+| Energy Level, n | Sublevels | Orbital Names | Orbital Names |
+| --------------- | --------- | ------------- | ------------- |
+| 1               | s         |               |               |
+|                 |           |               |               |
+|                 |           |               |               |
+|                 |           |               |               |
