@@ -22,7 +22,6 @@
 		 - f sublevel—7 orbitals
 	- Orbitals within each sublevel have similar shapes, but are oriented differently in space
 
-
 | Energy Level, n | Sublevels  | Orbital Names                         | Orbital Names |
 | --------------- | ---------- | ------------------------------------- | ------------- |
 | 1               | s          | 1s                                    | 1             |
