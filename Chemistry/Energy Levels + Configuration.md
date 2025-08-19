@@ -14,6 +14,12 @@
 	![[3799808.png|center]]
 	###### s < p < d < f
 
-- ##Orbitals**
-	- ##### The most probable area to find these electrons, in each level, takes on a specific shape
-	- ##### - So far, we are aware of 4 shapes named s, p, d, and f
+- ## **Orbitals**
+	- ##### Within each sublevel there are a certain number of orbitals.
+		 - s sublevel—1 orbital
+		 - p sublevel—3 orbitals
+		 - d sublevel—5 orbitals
+		 - f sublevel—7 orbitals
+    
+
+- Orbitals within each sublevel have similar shapes, but are oriented differently in space
