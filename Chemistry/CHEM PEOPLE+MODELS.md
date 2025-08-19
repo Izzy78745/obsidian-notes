@@ -27,4 +27,7 @@
 	- ##### Model fails to explain accurately for elements larger than Helium
 ----
 - ## **Isotopes**
-	- #####  1922 Nobel Prize
+	- ##### Isotopes are two atoms of the same element that have different masses
+
+- ## **Ions**
+	- ##### An ion is an atom that has a non-zero charge (positive or negative)
