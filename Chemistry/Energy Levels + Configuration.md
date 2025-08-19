@@ -11,4 +11,5 @@
 - ## **Types of Sublevels, aka Orbitals**
 	- ##### The most probable area to find these electrons, in each level, takes on a specific shape
 	- ##### - So far, we are aware of 4 shapes named s, p, d, and f
-	![[3799808.png]]
+	![[3799808.png|center]]
+	###### s < p < d < f
