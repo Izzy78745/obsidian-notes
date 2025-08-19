@@ -1,6 +1,4 @@
-- ## **Energy **
-	- ##### Ground state
-		- ##### all electrons in lowest possible energy levels
-	- ##### Excited state
-		- ##### An electron that has absorbed energy and moved to a higher energy level
-			- ##### This is a temporary state
+- ## **Energy Levels**
+	- ##### Each energy level has a number called the PRINCIPAL QUANTUM NUMBER, n
+	- ##### Currently n can be 1 thru 7, because there are 7 periods on the periodic table, n is literally the period number
+----
