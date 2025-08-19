@@ -35,10 +35,11 @@
 		- ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUchtOdhZT085KlM8TMuuNzv0Viye58uFhCrosQgZ-LgVRnS3zBDe0QMfh4KJgqeI0oLIFeJ6wRpkbtuBLeSBxziQTTwrxB5Qh0aPqiz00G-CD4u2iXLTv34k2lb1l5njoEN1YcFxo5N-pIpyI9qiliwIruetdW3=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
 	
 
-
+-----
 
 - # **Noble Gas Configuration**
 	- ##### Argon
 		- # $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^6$ 
 	- ##### Potassium
 		- $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^6$ $4s^1$
+-----
