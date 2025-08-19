@@ -31,4 +31,4 @@
 ![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdRh2XcJES7lw2MsfK2qQFv10wk45NaLHLpth5sepc1trfVYso0xvk-Jy3zBL7UG0lp9WdKCg04MFeR9LLjqXOuTP_zDjef2M2Qau2grFIqdZLs8zWBksoYT2M0bHogOzulTd3Wxp8s_SCu3izxZPZHW7FkIT8=s2048?key=Yhzq53WmW2dBIO8Sd5BZwg)
 
 - ## **Electron Configuration**
-	- ##### Within each sublevel there are a certain number of orbitals.
+	- ##### describes the distribution of electrons among the various orbitals in the atom; like an address for each electron’s most probable location
