@@ -31,6 +31,3 @@
 
 - ## Anabaptists
 	- ##### They basically believed in the same principles as Luther and Calvin but separated from them on the terms of baptism. They basically believed that only adults should be baptized, as only they can confess their belief in christ while an infant.. well they can't (duh).
-
-
-# NOW GO TO [[APE Unit 2.2]]
