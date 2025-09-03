@@ -44,20 +44,8 @@
     
 
 ---
-## **IV. Art and Culture**
 
-- The Dutch Golden Age saw **Baroque art with a middle-class twist**:
-    
-    - Artists like **Rembrandt**, **Vermeer**, **Frans Hals** painted portraits, landscapes, and domestic scenes rather than just religious or royal themes.
-        
-    - Reflected wealth of merchants and civic pride.
-        
-- Culture was civic, practical, and tied to commerce — unlike Versailles, which glorified monarchy.
-    
-
----
-
-## **VI. Decline**
+## **IV. Decline**
 
 - Late 17th–early 18th century:
     
