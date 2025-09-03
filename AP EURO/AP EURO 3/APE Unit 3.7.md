@@ -61,11 +61,8 @@
     - Imposed Western clothing, shaved beards, modernized army/navy.
     - Controlled nobility through **Table of Ranks** (noble status tied to state service).
     - Expanded territory: defeated Sweden in Great Northern War (1700–1721).
-        
 - **Absolutist Nature:**
     
     - Tsar = autocrat, head of both church (abolished Patriarch, created Holy Synod) and state.
-        
     - Serfdom deepened to keep nobility loyal.
-        
 - **Impact:** Russia emerged as a **major European power**, but at high social cost for peasants.
