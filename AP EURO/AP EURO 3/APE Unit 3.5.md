@@ -17,20 +17,13 @@
 
 - **William the Silent (1533–1584):** founder of Dutch independence against Spain.
 - Later, the **House of Orange** provided the office of **stadtholder** (military leader of a province).
-    
 - The **Orangists** favored stronger central leadership, especially during wartime.
-    
 - **William III of Orange (r. 1672–1702):**
     
     - Became stadtholder during crisis with France (Louis XIV invaded in 1672).
-        
     - Married Mary Stuart of England.
-        
     - In 1689, after the **Glorious Revolution**, he and Mary became co-monarchs of England → linking Dutch and English politics.
-        
     - As king of England, William brought Dutch financial institutions (e.g., Bank of Amsterdam model → Bank of England).
-        
-
 ---
 
 ## **III. Economy — Commercial and Financial Powerhouse**
@@ -51,21 +44,7 @@
     
 
 ---
-
-## **IV. Religion and Toleration**
-
-- Officially Calvinist (Dutch Reformed Church), but allowed relative **religious toleration**:
-    
-    - Jews, Catholics, Anabaptists, and others could live and work there (though not with full equality).
-        
-- Toleration attracted skilled refugees (Huguenots from France, Jews from Iberia).
-    
-- Helped fuel intellectual life (Spinoza, early Enlightenment thought).
-    
-
----
-
-## **V. Art and Culture**
+## **IV. Art and Culture**
 
 - The Dutch Golden Age saw **Baroque art with a middle-class twist**:
     
