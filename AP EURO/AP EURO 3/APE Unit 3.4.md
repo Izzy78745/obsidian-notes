@@ -79,11 +79,7 @@
 - **Physiocrats (early 18th century France):**
     
     - Criticized mercantilism, argued agriculture was real source of wealth.
-        
 - **Adam Smith (later in 1776, _Wealth of Nations_):**
     
     - Criticized mercantilism as zero-sum.
-        
     - Advocated **free trade**, limited government interference (laissez-faire).
-        
-- Although Smith is later (Unit 5 Enlightenment), his critique shows the decline of mercantilism.
