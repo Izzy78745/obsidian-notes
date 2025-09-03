@@ -9,28 +9,6 @@
     - Papacy lost political influence → states now acted independently of the Church.
         
 - **Result:** States were free to pursue **politics, economics, and military power** without religious constraints.
-    
-
----
-
-## **II. The Military Revolution**
-
-- New technologies and tactics fundamentally changed warfare:
-    
-    - Gunpowder weapons (cannons, muskets) replaced medieval knights.
-        
-    - Professional standing armies replaced feudal levies.
-        
-    - New fortifications (star forts) required huge investments.
-        
-- **Consequences:**
-    
-    - Rulers needed **larger, permanent armies**.
-        
-    - Wars became costlier → monarchs raised **taxes** and created **centralized bureaucracies** to fund them.
-        
-    - Military strength became the foundation of state power.
-        
 
 ---
 
