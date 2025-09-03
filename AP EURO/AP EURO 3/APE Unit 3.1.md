@@ -38,7 +38,7 @@
     - If rulers violate rights, subjects can rebel.
 ---
 
-## I**V. Absolutism vs. Constitutionalism (Two Models of Government)**
+## **IV. Absolutism vs. Constitutionalism (Two Models of Government)**
 
 - **Absolutism:**
     
@@ -52,27 +52,10 @@
     - Nobles, merchants, and towns retained political influence.
 ---
 
-## **VI. Religion’s Changing Role**
+## **V. Religion’s Changing Role**
 
 - After 1648, religion stopped being the _primary_ driver of politics:
     
     - Wars were now more about **dynastic and territorial rivalry** (France vs Habsburgs, England vs France, etc.).
     - **State interests > religious unity** → raison d’état (“reason of state”), especially under Cardinal Richelieu in France.
----
-
-## **VII. Broader Context**
-
-- **Social Hierarchies:**
-    
-    - Nobles resisted centralization but were often co-opted into service of monarchs.
-        
-    - Peasants bore heavy tax burdens → frequent revolts (Russia, France, Spain).
-        
-- **Cultural Developments:**
-    
-    - Absolutism glorified through art/architecture (Versailles, Baroque palaces).
-        
-    - Constitutionalism fostered civic values and commercial culture (Dutch Golden Age).
-        
-
 ---
