@@ -1,5 +1,4 @@
 # This is basically jst my notes for school
 
 [[AP Euro]]
-[[1.Chemistry]]
-[[e/APUSH/APUSH]]
+[[APUSH]]
