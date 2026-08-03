@@ -1,15 +1,3 @@
-#                    American Societies before Europeans.  
-
-
-- ## **Native American people were diverse**
-	- ##### In the same way that France is different from Spain, England, Germany, etc. etc., Indigenous groups that populated the Americas were very different from each other in language, culture, customs, and economics. Some societies were nomadic, while others were living in cities, or a mix of the two
-	
-	- ##### Now one reason some of these tribes were moved around was due to the location of maize. Maize originated in around the south of modern day Mexico, and around 5000 BCE this led to the reduction of nomadic tribes, and the rise of sedentary agriculture.
-
-----
-
-- ## **What Maize Cultivation did**
-	- ##### It led to the rise of Economic Development, which led to trade networks between societies developing. Led some groups into perminant settlements. Caused new irrigation techniques to arise to water their crops. And lastly it led to Social Diversification, as more people are born it leads to classes for example.
 
 
 ----
