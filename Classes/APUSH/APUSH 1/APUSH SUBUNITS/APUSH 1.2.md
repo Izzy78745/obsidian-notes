@@ -1,16 +1,15 @@
-#                    American Societies before Europeans.  
+#                    European EXPLORATION in the Americas  
 
 
-- ## **Native American people were diverse**
-	- ##### In the same way that France is different from Spain, England, Germany, etc. etc., Indigenous groups that populated the Americas were very different from each other in language, culture, customs, and economics. Some societies were nomadic, while others were living in cities, or a mix of the two
+- ## **Europeans didn't just decide to go for no reason**
+	- ##### From around 1200-1450 Europe was kind of just a shitshow in comparison to places like Islamic states in the Middle East and Africa, or the rest of Asia. And Europe's population declined due to the Bubonic Plague as well as the little ice age going on.
 	
-	- ##### Now one reason some of these tribes were moved around was due to the location of maize. Maize originated in around the south of modern day Mexico, and around 5000 BCE this led to the reduction of nomadic tribes, and the rise of sedentary agriculture.
+	- ##### But then Europe Started to get their shit together. First the climate warmed which led to more agricultural productivity, which led to more babies (bigger population), and that led to a want of luxury goods, then the renaissance which the cultural rebirth aided political unification.
 
 ----
 
-- ## **What Maize Cultivation did**
-	- ##### It led to the rise of Economic Development, which led to trade networks between societies developing. Led some groups into permanent settlements. Caused new irrigation techniques to arise to water their crops. And lastly it led to Social Diversification, as more people are born it leads to classes for example.
-
+- ## **Why did they explore**
+	- ##### The first reason that Europeans decided to go exploring was due to gold being abundant inside the New World.
 ----
 
 - ## **Diversity time**
