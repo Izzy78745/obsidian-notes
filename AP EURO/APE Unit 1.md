@@ -9,13 +9,14 @@
 ----
 
 - ## **What Maize Cultivation did**
-	- ##### It led to the rise of Economic Development, which led to trade networks between societies developing. Led some groups into permanent settlements. Caused new irrigation techniques to arise to water their crops. And lastly it led to Social Diversification, as more people are born it leads to classes for example.
+	- ##### It led to the rise of Economic Development, which led to trade networks between societies developing. Led some groups into perminant settlements. Caused new irrigation techniques to arise to water their crops. And lastly it led to Social Diversification, as more people are born it leads to classes for example.
+
 
 ----
 
-- ## **Diversity time**
-	- ##### Now not all tribes lived the same, for example, in the Great Basin and Great Plains it was a hot and dry climate, leading to societies being nomadic and small, like the Ute who lived in groups of 20-100. 
-	- ##### Now In comparison on the East Coast, they created large complex perminant settlements due to agriculture. Like with the Hopewell Missippian society, their rich soil, population, and rivers allowed them to practice agriculture, trade, and produce social hierarchies. 
+- ## THE GOAT MARTIN LUTHER
+	- ##### Martin Luther was a monk and honestly had anxiety of confessing his sins (me to bro) but then he made a discovery. He was studying Romans chapter 1 in the new testament. He figured out that it was not paying to get rid of your sins but instead god forgave based off the finished work of Christ (Heimler said that idk what that means). The more he read into it he saw how the Papacy was very diverged from the bible actually.
+	- ##### Then he made up Sola Scriptura meaning scripture alone and that the final authority was the bible and not the papacy. Then he made the 95 thesis and then nailed it on the door. Then the printing press actually spread it across the HRE and a lot of people agreed with him. Then the Church officials denounced him as a heretic and brought him before "The Diet of Worms" saying to denounce his claims and basically just said no.
 
 ----
 
