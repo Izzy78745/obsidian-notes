@@ -5,7 +5,6 @@
 	- ##### From around 1200-1450 Europe was kind of just a shitshow in comparison to places like Islamic states in the Middle East and Africa, or the rest of Asia. And Europe's population declined due to the Bubonic Plague as well as the little ice age going on.
 	
 	- ##### But then Europe Started to get their shit together. First the climate warmed which led to more agricultural productivity, which led to more babies (bigger population), and that led to a want of luxury goods, then the renaissance which the cultural rebirth aided political unification.
-
 ----
 
 - ## **Why did they explore**
@@ -15,13 +14,5 @@
 	
 	- ##### The Next reason was due to God, aka religious motives. At the time Catholicism was the dominant religion throughout all of Western Europe. But around the 14th century, some enlightened people were getting mad at corruption in the church, similar like in [[APE UNIT 2.1]] where they were arguing against Simony which was buying and selling of church positions, as well as indulgence's which was paying your sins away. And after a while Martin Luther led to the Protestant reformation, which led to a division of Europe politically and socially. This is also happening at the same time that maritime exploration is happening, so every state is trying to spread their own version of Christianity. For example, after the Spanish kingdoms of Castile and Aragon combined, they expelled the Muslims and Jew from the Peninsula, as well as eliminating religious dissent in Spain. And at this same time Columbus was asking for money, and so they decided they should also spread Catholicism to Asia
 	
-	- ##### And lastly, They wished to go for Glory. As colonies started to emerge, every kingdom/state wanted to shift the power in their favor. And by the 1600s Spain was definently in the lead, controlling much of the Central and Southern Americas, leading to other European states to want to shift the balance of power back in their favor. Also at this time political change was occurring where large multi-ethnic empires were breaking apart while smaller kingdoms were uniting, becoming more powerful, lik
-----
-
-- ## **Diversity time**
-	- ##### Now not all tribes lived the same, for example, in the Great Basin and Great Plains it was a hot and dry climate, leading to societies being nomadic and small, like the Ute who lived in groups of 20-100. 
-	- ##### Now In comparison on the East Coast, they created large complex permanent settlements due to agriculture. Like with the Hopewell Messapian society, their rich soil, population, and rivers allowed them to practice agriculture, trade, and produce social hierarchies. 
-	- ##### Or in the North East, the Iroquois lived a semi-sedentary life, using timber to build long houses, and created a their own little confederacy of Iroquois who stopped wars and started trade.
-	- ##### The Cherokee along the Atlantic coast grew Maize, beans, and squash, but were also semi-sedentary, where men hunted, and women grew crops, and they were also matrilineal.
-	- ##### The Pacific Coast saw two distinct regions, as well as not practicing agriculture and instead being hunters/gatherers, but instead of being nomadic, they instead they decided to have permanent settlements, as well as getting food from the seas 
+	- ##### And lastly, They wished to go for Glory. As colonies started to emerge, every kingdom/state wanted to shift the power in their favor. And by the 1600s Spain was definingly in the lead, controlling much of the Central and Southern Americas, leading to other European states to want to shift the balance of power back in their favor. Also at this time political change was occurring where large multi-ethnic empires were breaking apart while smaller kingdoms were uniting, becoming more powerful, like in Spain (known as nation-states). And as states were colonizing crazy amounts of places, this led to disputes like Spain v. Portugal, but this one was settled peacefully due to both states being Catholic, and the pope made the Treaty of Tordesillas, giving Spain like 95% of the Americas.
 ----
