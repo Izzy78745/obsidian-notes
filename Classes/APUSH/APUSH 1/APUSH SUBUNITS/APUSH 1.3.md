@@ -1,0 +1,18 @@
+#                     Columbian Exchange & Spanish Conquest  
+
+
+- ## **The exploration led to increased trade**
+	- ##### Now this increased trade was caused by a variety of things. One of was the improvements in Maritime Technology, such as new ships like caravels with lateen sails. Or the compass and astrolabe which helped determine their location. Then Joint-Stock companies helped fund expeditions and get returns on their investments. Though even though they were funded by the people, they still relied on the state for safety and monopolies.
+	
+	- ##### But then Europe Started to get their shit together. First the climate warmed which led to more agricultural productivity, which led to more babies (bigger population), and that led to a want of luxury goods, then the renaissance which the cultural rebirth aided political unification.
+----
+
+- ## **Why did they explore**
+	- ##### The first reason that Europeans decided to go exploring was due to gold (which is a simple way of saying economics) being abundant inside the New World. And also add the want to Asian goods (which had been cut off by the Ottomans, as well as better Banking systems that helped facilitate trades, they had their motives to scurry over the sea to go find Asia.
+		- ##### The first to go was Henry the Navigator from Portugal who tried to sail around the West coast of Africa to make it to the Indian Ocean. But the first successful one was Vasco de Gama who made it all around the Cape of Good Hope and set up trading posts in the East, starting the first Trading Post Empire.
+		- ##### By then Spain also realized they wanted in on this, but Portugal had already gotten all of the East Indian trade, so they had decided they want a different way to Asia. And by then Christopher Columbus was given money by the Spanish King and Queen, Ferdinand and Isabella, and when he made it to the Carrabin he had believed that he had made it to Asia.
+	
+	- ##### The Next reason was due to God, aka religious motives. At the time Catholicism was the dominant religion throughout all of Western Europe. But around the 14th century, some enlightened people were getting mad at corruption in the church, similar like in [[APE UNIT 2.1]] where they were arguing against Simony which was buying and selling of church positions, as well as indulgence's which was paying your sins away. And after a while Martin Luther led to the Protestant reformation, which led to a division of Europe politically and socially. This is also happening at the same time that maritime exploration is happening, so every state is trying to spread their own version of Christianity. For example, after the Spanish kingdoms of Castile and Aragon combined, they expelled the Muslims and Jew from the Peninsula, as well as eliminating religious dissent in Spain. And at this same time Columbus was asking for money, and so they decided they should also spread Catholicism to Asia
+	
+	- ##### And lastly, They wished to go for Glory. As colonies started to emerge, every kingdom/state wanted to shift the power in their favor. And by the 1600s Spain was definingly in the lead, controlling much of the Central and Southern Americas, leading to other European states to want to shift the balance of power back in their favor. Also at this time political change was occurring where large multi-ethnic empires were breaking apart while smaller kingdoms were uniting, becoming more powerful, like in Spain (known as nation-states). And as states were colonizing crazy amounts of places, this led to disputes like Spain v. Portugal, but this one was settled peacefully due to both states being Catholic, and the pope made the Treaty of Tordesillas, giving Spain like 95% of the Americas.
+----
