@@ -1,14 +1,12 @@
 #                     Columbian Exchange & Spanish Conquest  
 
 
-- ## **The exploration led to increased trade**
+- ## **Causes of trade**
 	- ##### Now this increased trade was caused by a variety of things. One of was the improvements in Maritime Technology, such as new ships like caravels with lateen sails. Or the compass and astrolabe which helped determine their location. Then Joint-Stock companies helped fund expeditions and get returns on their investments. Though even though they were funded by the people, they still relied on the state for safety and monopolies.
-	
-	- ##### But then Europe Started to get their shit together. First the climate warmed which led to more agricultural productivity, which led to more babies (bigger population), and that led to a want of luxury goods, then the renaissance which the cultural rebirth aided political unification.
 ----
 
-- ## **Why did they explore**
-	- ##### The first reason that Europeans decided to go exploring was due to gold (which is a simple way of saying economics) being abundant inside the New World. And also add the want to Asian goods (which had been cut off by the Ottomans, as well as better Banking systems that helped facilitate trades, they had their motives to scurry over the sea to go find Asia.
+- ## **Effects of trade**
+	- ##### The main thing that started the biggest effects was the Columbian Exchange. The Columbian exchange refers to the transfer of diseases, plants, animals, minerals, and people between the old and new world.
 		- ##### The first to go was Henry the Navigator from Portugal who tried to sail around the West coast of Africa to make it to the Indian Ocean. But the first successful one was Vasco de Gama who made it all around the Cape of Good Hope and set up trading posts in the East, starting the first Trading Post Empire.
 		- ##### By then Spain also realized they wanted in on this, but Portugal had already gotten all of the East Indian trade, so they had decided they want a different way to Asia. And by then Christopher Columbus was given money by the Spanish King and Queen, Ferdinand and Isabella, and when he made it to the Carrabin he had believed that he had made it to Asia.
 	
